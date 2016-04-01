@@ -10,6 +10,7 @@
 4. 社長を大声でお呼びする
 5. 少々お待ちいただく
 
+ ![マインドマップ](https://github.com/johnokaz/ReceptionForRookie/wiki/image/入社式受付アプリ.png "入社式受付アプリ_マインドマップ")
 
 ## Install
 
